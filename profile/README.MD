@@ -1,5 +1,5 @@
 ### 小破开源组织
-# NovaConnect 主页
+# NovaConnect | 新星互联 主页
 
 ## 产品概览
 
