@@ -6,7 +6,7 @@
 ## 产品概览
 
 * **SupplyLink | 易供需平台**：
-    * [查看PDF](https://novaconnect.github.com/supplylink.pdf)
+    * [查看PDF](https://novaconnect.github.io/supplylink.pdf)
     * 连接供需双方，高效匹配资源与需求的交易保障平台
     * 使用AI+人工审核需求、资源发布，采用押金制，保障供需发布与交易，守护用户资金安全。
     * 高效算法，实时分析供需数据，精准推荐资源与需求，匹配效率提升80%。
