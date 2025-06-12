@@ -5,11 +5,10 @@
 
 ## 产品概览
 
-* **SupplyLink | 易供需平台**：
-    * [查看PDF](https://novaconnect.github.io/supplylink.pdf)
-    * 连接供需双方，高效匹配资源与需求的交易保障平台
-    * 使用AI+人工审核需求、资源发布，采用押金制，保障供需发布与交易，守护用户资金安全。
-    * 高效算法，实时分析供需数据，精准推荐资源与需求，匹配效率提升80%。
+* **NotepadApp (重构的代替WindowsNotepad的App)**：
+    * [项目地址](https://github.com/Yuxi-IT/NotepadApp)
+    * 功能强大的下一代记事本，可帮助用户在原始记事本之上享受更好的功能。
+    * 使用侧边栏选项卡管理打开的文件，底部栏中有更详细的信息，这比原来的记事本更快，并支持不同文件类型的编辑。
 
 * **Intellihub (AI代理工具)**：
     * [项目地址](https://github.com/Yuxi-IT/Intellihub)
