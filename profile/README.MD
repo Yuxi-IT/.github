@@ -10,6 +10,11 @@
     * 功能强大的下一代记事本，可帮助用户在原始记事本之上享受更好的功能。
     * 使用侧边栏选项卡管理打开的文件，底部栏中有更详细的信息，这比原来的记事本更快，并支持不同文件类型的编辑。
 
+* **MarkdownPreview (用WPF原生渲染的Markdown)**：
+    * [项目地址](https://github.com/SmaZone2020/MarkdownPreview)
+    * 一个将Markdown解析为Json并用WPF原生组件渲染的Demo
+    * 使用原生渲染所有拥有更快的速度。
+
 * **Intellihub (AI代理工具)**：
     * [项目地址](https://github.com/Yuxi-IT/Intellihub)
     * 一款功能强大的AI Agent工具，可以连接到云端大模型并调用本地工具。
