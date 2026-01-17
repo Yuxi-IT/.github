@@ -52,7 +52,5 @@
 
 
 
-## 联系我
-* Email: [NovaConnect-ZH@HotMail.com](mailto:NovaConnect-ZH@HotMail.com)
-* Telegram: [@SmaZone](https://t.me/SmaZone)
-* X: [@Sm4Z0n3](https://x.com/Sm4Z0n3)
+## 联系我们
+* Email: [Admin@YuxiIT.cn](mailto:Admin@YuxiIT.cn)
